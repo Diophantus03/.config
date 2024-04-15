@@ -35,6 +35,8 @@ return packer.startup(function(use)
 
 	use("chomosuke/typst-preview.nvim") -- typst in vim
 
+	use("donRaphaco/neotex") -- latex preview in vim
+
 	use("iamcco/markdown-preview.nvim") -- previre for latex and vim
 
 	use("lervag/vimtex") -- tex in vim
