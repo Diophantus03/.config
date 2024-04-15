@@ -211,6 +211,16 @@ _G.packer_plugins = {
     path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/typescript.nvim",
     url = "https://github.com/jose-elias-alvarez/typescript.nvim"
   },
+  ["typst-preview.nvim"] = {
+    loaded = true,
+    path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/typst-preview.nvim",
+    url = "https://github.com/chomosuke/typst-preview.nvim"
+  },
+  ["typst.vim"] = {
+    loaded = true,
+    path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/typst.vim",
+    url = "https://github.com/kaarmu/typst.vim"
+  },
   ["vim-ReplaceWithRegister"] = {
     loaded = true,
     path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/vim-ReplaceWithRegister",

@@ -31,6 +31,10 @@ return packer.startup(function(use)
 	-- packer can manage itself
 	use("wbthomason/packer.nvim")
 
+	use("kaarmu/typst.vim") -- typst in vim
+
+	use("chomosuke/typst-preview.nvim") -- typst in vim
+
 	use("lervag/vimtex") -- tex in vim
 
 	use("nvim-lua/plenary.nvim") -- lua functions that many plugins use
