@@ -37,6 +37,10 @@ return packer.startup(function(use)
 
 	use("donRaphaco/neotex") -- latex preview in vim
 
+	use("xuhdev/vim-latex-live-preview")
+
+	-- use("numToStr/Comment.nvim")
+	--
 	use("iamcco/markdown-preview.nvim") -- previre for latex and vim
 
 	use("lervag/vimtex") -- tex in vim

@@ -236,6 +236,11 @@ _G.packer_plugins = {
     path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/vim-ReplaceWithRegister",
     url = "https://github.com/inkarkat/vim-ReplaceWithRegister"
   },
+  ["vim-latex-live-preview"] = {
+    loaded = true,
+    path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/vim-latex-live-preview",
+    url = "https://github.com/xuhdev/vim-latex-live-preview"
+  },
   ["vim-maximizer"] = {
     loaded = true,
     path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/vim-maximizer",
