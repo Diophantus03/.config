@@ -1,0 +1,12 @@
+[package]
+name = "sachin"
+version = "1.0.0"
+entrypoint = "sachin.typ"
+authors = ["Sachin Kumar"]
+license = "UWaterloo"
+description = "Sachin's template file for Typst documents."
+homepage = "https://github.com/sachink003/.config"
+
+[template]
+path = "template"
+entrypoint = "main.typ"
