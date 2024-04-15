@@ -35,6 +35,8 @@ return packer.startup(function(use)
 
 	use("chomosuke/typst-preview.nvim") -- typst in vim
 
+	use("iamcco/markdown-preview.nvim") -- previre for latex and vim
+
 	use("lervag/vimtex") -- tex in vim
 
 	use("nvim-lua/plenary.nvim") -- lua functions that many plugins use
