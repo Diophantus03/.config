@@ -39,6 +39,9 @@ return packer.startup(function(use)
 
 	use("xuhdev/vim-latex-live-preview")
 
+	use("mk12/vim-lean") -- Lean in Vim
+	use("Julian/lean.nvim") -- Lean in Nvim
+
 	-- use("numToStr/Comment.nvim")
 	--
 	use("iamcco/markdown-preview.nvim") -- previre for latex and vim

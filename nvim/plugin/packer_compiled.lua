@@ -114,6 +114,11 @@ _G.packer_plugins = {
     path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
   },
+  ["lean.nvim"] = {
+    loaded = true,
+    path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/lean.nvim",
+    url = "https://github.com/Julian/lean.nvim"
+  },
   ["lspkind.nvim"] = {
     loaded = true,
     path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/lspkind.nvim",
@@ -240,6 +245,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/vim-latex-live-preview",
     url = "https://github.com/xuhdev/vim-latex-live-preview"
+  },
+  ["vim-lean"] = {
+    loaded = true,
+    path = "/Users/sachinkumar/.local/share/nvim/site/pack/packer/start/vim-lean",
+    url = "https://github.com/mk12/vim-lean"
   },
   ["vim-maximizer"] = {
     loaded = true,
